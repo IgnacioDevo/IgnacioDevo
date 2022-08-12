@@ -5,7 +5,7 @@ I am a 18 years olds Argentine interested in the world of technology, programmin
 
 
 - 🙆‍♂️ I’m currently studying and learning HTML , CSS , Bootstrap , JS , Python, SASS, ReactJS, NodeJS
-- 👀 I’m interested in Solidity , Web 3.0 , Ruby and React
+- 👀 I’m interested in Solidity and Web 3.0
 ..
 
 <!---
