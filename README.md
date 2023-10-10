@@ -1,13 +1,8 @@
- I'm Ignacio Pacheco 👋☕💻
+¡Hola! Soy un apasionado diseñador UX/UI con sede en Buenos Aires, Argentina. Mi enfoque se centra en crear experiencias de usuario excepcionales y atractivas a través de un diseño centrado en el usuario.
 
+Tengo la capacidad de abarcar tanto el diseño de interfaz de usuario como el desarrollo front-end, lo que me permite llevar mis diseños a la realidad. Estoy cómodo trabajando con tecnologías como Java, SASS, HTML, CSS y React, lo que me permite entender las necesidades técnicas y la implementación de mis diseños.
 
-I am a 18 years olds Argentine interested in the world of technology, programming and the crypto world. Two years ago I had my first contact with development and applications. Since then I try to improve my skills daily and progress in my dream of being a web developer. I am also studying Systems at the university and learning in a self-taught way through courses and projects. In this git I will try to upload my progress day by day and see if I can create those great things that are on my mind for now.
-
-
-- 🙆‍♂️ I’m currently studying and learning HTML5 , CSS3 , Bootstrap , JS , Python, SASS, ReactJS, NodeJS, NPM, AD,  Figma, Responisve Design.
-- 👀 I’m interested in Solidity and Web 3.0
-- My personal Website: https://rough-darkness-9255.on.fleek.co/
-..
+Estoy emocionado por la oportunidad de colaborar en proyectos desafiantes y enriquecedores, y de aprender continuamente en este mundo en constante evolución.
 
 <!---
 IgnacioDevo/IgnacioDevo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
