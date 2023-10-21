@@ -2,7 +2,7 @@
 
 Tengo la capacidad de abarcar tanto el diseño de interfaz de usuario como el desarrollo front-end, lo que me permite llevar mis diseños a la realidad. Estoy cómodo trabajando con tecnologías como , SASS, HTML y CSS, lo que me permite entender las necesidades técnicas y la implementación de mis diseños.
 
-Estoy emocionado por la oportunidad de colaborar en proyectos desafiantes y enriquecedores, y de aprender continuamente en este mundo en constante evolución.
+
 
 <!---
 IgnacioDevo/IgnacioDevo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
